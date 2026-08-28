@@ -6,6 +6,9 @@
   padding: 85px 90px;
   border-radius: 0 60px 0 60px;
   background-image: url(../../images/banner-img.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: grey;
   gap: 130px;
 }
 
